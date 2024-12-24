@@ -1,0 +1,30 @@
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.csproj.AssemblyReference.cache
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School_Management_System.Form1.resources
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School_Management_System.Properties.Resources.resources
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.csproj.GenerateResource.cache
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.AssemblyInfoInputs.cache
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.AssemblyInfo.cs
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\School Management System.exe
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\School Management System.deps.json
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\School Management System.runtimeconfig.json
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\School Management System.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\School Management System.pdb
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\refint\School Management System.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.pdb
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School Management System.genruntimeconfig.cache
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\ref\School Management System.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School_Management_System.Form2.resources
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School_Management_System.Form3.resources
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School_Management_System.Form4.resources
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School_Management_System.Form5.resources
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School_Management_System.Form6.resources
+C:\Users\Gayashan\Documents\NIBM TEST SOFTWARE\School Management System\School Management System\obj\Debug\net6.0-windows\School M.9425A2E0.Up2Date
